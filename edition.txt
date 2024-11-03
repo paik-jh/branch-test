@@ -1,8 +1,7 @@
-"first edition" 
+first edition"
 second edition 
 third edition 
 issue resolved 
 hotfix my solution 
-Hotfix team's solution 
-"New function added" 
-"Team upgraded" 
+New function added
+Team upgraded
